@@ -1,2 +1,2 @@
 # tutorial
-tutorial activity 
+tutorial activity and preparing for the demo 
