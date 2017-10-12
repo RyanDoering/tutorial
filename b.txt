@@ -1,1 +1,2 @@
 changed b.txt
+new tesxt
